@@ -9,6 +9,7 @@ public class Test2 {
 		System.out.println("ㅂㅇ");
 		
 		System.out.println("test1 브랜치 시작");
+		System.out.println("test1 브랜치 끝");
 	}
 
 }
