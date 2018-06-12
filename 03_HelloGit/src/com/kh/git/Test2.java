@@ -12,6 +12,7 @@ public class Test2 {
 		System.out.println("test1 브랜치 끝");
 		
 		System.out.println("master에서 작성");
+		System.out.println("test1에서 작성함!");
 	}
 
 }
